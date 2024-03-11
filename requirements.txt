@@ -1,0 +1,4 @@
+yagmail~=0.15.293
+pandas~=2.2.1
+DateTime~=5.4
+requests~=2.31.0
